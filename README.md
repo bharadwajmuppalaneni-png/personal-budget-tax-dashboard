@@ -15,8 +15,7 @@ To analyze monthly income, expenses, and savings of a salaried individual and id
 
 ## Key Insights
 - Identified high spending categories (Rent and Food)
-- Savings rate fluctuates between 20%–35%
-- Potential to increase savings by reducing discretionary expenses
+- Savings rate fluctuates between 30%-50%
 - Tax liability can be reduced with better planning
 
 ## Business Impact
@@ -27,4 +26,6 @@ This model can help individuals:
 
 ## Files Included
 - budget_data.xlsx (dataset + calculations)
-- dashboard.png (visual insights)
+- expense breakdownpie chart (visual insights)
+- monthly expense bar chart (visual insights)
+- Savings trend line chart (visual insights)
